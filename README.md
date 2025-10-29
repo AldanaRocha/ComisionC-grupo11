@@ -24,3 +24,7 @@ Rocha Sebastián: colaborador, sebastianrocha2025
 
 
 
+
+* **Nombre:** Alexis Ojeda
+* **Usuario de GitHub:** Antraxxis
+* **Descripción breve de mi contrubicion: Colaborador.

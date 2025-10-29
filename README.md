@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # ComisionC-grupo11
 
 
@@ -36,3 +37,7 @@ Rocha Sebastián: colaborador, sebastianrocha2025
 
 Navarro Perez Maria Soledad: maria-navarro-04 | Rol: colaborador
 
+Salinas Octavio Nicolas: oktabio | Rol: colaborador
+
+=======
+>>>>>>> Stashed changes

@@ -1,18 +1,18 @@
 ComisionC-grupo11
-## Integrantes y aportes
-===
+Integrantes y aportes
+
 
 # 
 
-# \- \*\*Nombre:\*\* Sabrina Belén Portillo
+# Nombre: Sabrina Belén Portillo
 
-# \- \*\*Materia:\*\* Metodología de Sistemas II
+# Materia: Metodología de Sistemas II
 
-# \- \*\*Profesor:\*\* Rosalía Insaurralde
+# Profesor: Rosalía Insaurralde
 
-# \- \*\*Usuario de GitHub:\*\* belenportillosbp-cyber
+# Usuario de GitHub: belenportillosbp-cyber
 
-# \- \*\*Contribución:\*\* Creación de archivo Integrante\_Portillo.S.txt y participación en la rama personal
+# Contribución: Creación de archivo Integrante\_Portillo.S.txt y participación en la rama personal
 
 
 

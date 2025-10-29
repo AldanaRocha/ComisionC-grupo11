@@ -25,6 +25,14 @@ Rocha Sebastián: colaborador, sebastianrocha2025
 
 
 
+
 * **Nombre:** Alexis Ojeda
 * **Usuario de GitHub:** Antraxxis
-* **Descripción breve de mi contrubicion: Colaborador.
+* \*\*Descripción breve de mi contrubicion: Colaborador.
+
+
+
+
+
+Navarro Perez Maria Soledad: maria-navarro-04 | Rol: colaborador
+

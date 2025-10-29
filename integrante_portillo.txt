@@ -1,3 +1,3 @@
 Nombre: Diego Portillo
-Usuario GitHub: ivan230600
-Tarea: Creación de función suma
+Rol: Alumno
+Comisión: 4C
